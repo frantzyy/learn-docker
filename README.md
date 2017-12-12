@@ -4,8 +4,9 @@ Start learning docker.
 
 # My lessons
 
-[./static/README.md](Deploy a static website)
-
+[Deploy a static website](./static/README.md)
+[Deploy a static website](./static/README.md)
+[Deploy a static website](./static/README.md)
 
 # Tutorials
 https://www.docker.com/what-docker
