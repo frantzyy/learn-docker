@@ -4,8 +4,8 @@ Start learning docker.
 
 # My lessons
 
-* [Deploy a static website](./static/README.md)
-* [Deploy a static website](./static/README.md)
+* [Deploy a static website](./lesson-static/README.md)
+* [Deploy a node image](./lesson-node-image/README.md)
 * [Deploy a static website](./static/README.md)
 
 # Tutorials
